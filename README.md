@@ -23,6 +23,6 @@ Project Name | Live Link | Key Challenges | Achievements prior to that experienc
 
 
 ## Games
-* Rock-Paper-Scissors | https://50-course.github.io/rock-paper-scissors/ | Challenges: I think, I was just starting out with Javascript back then, unfortunately I could have take it further to get hands-on DOM experience, while learning that basic game algorithm. It was fun overall. | Achivements: JavaScript fundamentals
+* Rock-Paper-Scissors | https://50-course.github.io/rock-paper-scissors/ | Challenges: I think, I was just starting out with Javascript back then, unfortunately I could have take it further to get hands-on DOM experience, while learning that basic game algorithm. It was fun overall. | Achivements: JavaScript fundamentals | Repo: https://github.com/50-Course/rock-paper-scissors
 
 ## Uncategorized
